@@ -59,6 +59,7 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Libraries**
@@ -91,13 +92,13 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bhurtel&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&icon_color=00C9A7&title_color=00C9A7" height="160" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bhurtel&layout=compact&theme=vue-dark&hide_border=true&langs_count=6&title_color=00C9A7" height="160" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Bhurtel&theme=vue" height="175" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Bhurtel&theme=vue&exclude=Jupyter%20Notebook" height="175" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bhurtel&theme=vue-dark&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=M-Bhurtel&theme=vue-dark&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&dates=00C9A7&sideLabels=00C9A7&date_format=j%20M%5BY%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
 <!-- Contribution Snake -->
@@ -128,7 +129,7 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
       <img src="assets/wonderland-sales.png" alt="Wonderland Sales Dashboard" width="100%"/>
       <p>SQL and Power BI project revealing that <strong>84.44% of revenue</strong> came from high-margin products and surfacing a <strong>$7M NSW revenue opportunity</strong> buried in regional segmentation data.</p>
       <p><strong>Tech:</strong> SQL &nbsp;·&nbsp; Power BI</p>
-      <a href="https://github.com/M-Bhurtel" target="_blank">Repository</a>
+      <a href="https://github.com/M-Bhurtel/Wonderland-Sales-Analaytics" target="_blank">Repository</a>
     </td>
   </tr>
   <tr>
@@ -144,7 +145,7 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
       <img src="assets/ab-test.png" alt="A/B Test Analysis" width="100%"/>
       <p>Statistical test across <strong>588,101 records</strong>. Confirmed a <strong>+0.77% conversion lift</strong> at p-value below 0.0001, removing guesswork and delivering a clear go/no-go recommendation.</p>
       <p><strong>Tech:</strong> Python &nbsp;·&nbsp; Statsmodels &nbsp;·&nbsp; Pandas</p>
-      <a href="https://github.com/M-Bhurtel" target="_blank">Repository</a>
+      <a href="https://github.com/M-Bhurtel/Marketing-AB-Test-Analysis" target="_blank">Repository</a>
     </td>
   </tr>
   <tr>
@@ -156,6 +157,11 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
       <a href="https://github.com/M-Bhurtel/Telco-Churn-Analysis" target="_blank">Repository</a>
     </td>
     <td width="50%" valign="top">
+      <h3>RFM Customer Segmentation Analysis</h3>
+      <img src="assets/RMF_dashboard.jpg" alt="RFM Customer Segmentation" width="100%"/>
+      <p>Built a full RFM (Recency, Frequency, Monetary) model on <strong>994 orders from 287 customers</strong> across 12 months (Jan–Dec 2025). Used <strong>window functions and CTEs in Google BigQuery</strong> to calculate RFM scores, then segmented customers into <strong>8 distinct groups</strong> and visualised actionable retention and upsell strategies in Power BI.</p>
+      <p><strong>Tech:</strong> Google BigQuery (GoogleSQL) &nbsp;·&nbsp; Power BI</p>
+      <a href="https://github.com/M-Bhurtel/RFM-Customer-Segmentation" target="_blank">Repository</a>
     </td>
   </tr>
 </table>
@@ -169,9 +175,9 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 
 <br/>
 
-- Advanced SQL: window functions, query optimisation, and database design
-- Machine Learning and Predictive Analytics
+- Machine Learning and Predictive Analytics (logistic regression, random forest)
 - Cloud Data Platforms: Azure and AWS
+- Advanced Excel: financial modelling and dynamic dashboards
 
 <br/>
 
