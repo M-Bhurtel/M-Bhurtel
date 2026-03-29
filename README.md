@@ -94,12 +94,21 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Bhurtel&theme=vue" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Bhurtel&theme=vue&exclude=Jupyter%20Notebook" height="175" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Bhurtel&theme=vue&utcOffset=1" height="175" alt="Commit Time"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=M-Bhurtel&theme=vue-dark&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&dates=00C9A7&sideLabels=00C9A7&date_format=j%20M%5BY%5D" alt="GitHub Streak" width="60%"/>
 </p>
+
+<br/>
+
+**Most Used Languages**
+
+![SQL](https://img.shields.io/badge/SQL%20%2F%20TSQL-45%25-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![GoogleSQL](https://img.shields.io/badge/GoogleSQL%20%2F%20BigQuery-15%25-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5%25-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <!-- Contribution Snake -->
 <p align="center">
@@ -158,7 +167,7 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
     </td>
     <td width="50%" valign="top">
       <h3>RFM Customer Segmentation Analysis</h3>
-      <img src="assets/RMF_dashboard.jpg" alt="RFM Customer Segmentation" width="100%"/>
+      <img src="RMF_dashboard.jpg" alt="RFM Customer Segmentation" width="100%"/>
       <p>Built a full RFM (Recency, Frequency, Monetary) model on <strong>994 orders from 287 customers</strong> across 12 months (Jan–Dec 2025). Used <strong>window functions and CTEs in Google BigQuery</strong> to calculate RFM scores, then segmented customers into <strong>8 distinct groups</strong> and visualised actionable retention and upsell strategies in Power BI.</p>
       <p><strong>Tech:</strong> Google BigQuery (GoogleSQL) &nbsp;·&nbsp; Power BI</p>
       <a href="https://github.com/M-Bhurtel/RFM-Customer-Segmentation" target="_blank">Repository</a>
