@@ -92,9 +92,9 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stat-iota-ten.vercel.app/api?username=M-Bhurtel&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&icon_color=00C9A7&title_color=00C9A7" height="175" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Bhurtel&theme=vue" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stat-iota-ten.vercel.app/api/top-langs/?username=M-Bhurtel&layout=compact&theme=vue-dark&hide_border=true&title_color=00C9A7&langs_count=6&hide=Jupyter%20Notebook" height="175" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Bhurtel&theme=vue&exclude=Jupyter%20Notebook" height="175" alt="Top Languages"/>
 </p>
 
 <p align="center">
