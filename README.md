@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+raw+data+into+clear+decisions;Open+to+Junior+Data+Analyst+roles+in+London" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+SAP;Turning+raw+data+into+clear+decisions;Open+to+Data+and+Supply+Chain+Analyst+roles+in+London" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -32,7 +32,15 @@ I'm a London-based Data Analyst with a **Bachelor of Business Information System
 
 My career started at **Zither IT Consulting** in Sydney as a Business Analyst intern, where I gathered client requirements, ran CRM testing, and managed bug tracking with Asana on live projects. That experience taught me to think about data problems as business problems first.
 
-Today I work at **dnata Catering UK**, certifying flight security documentation under **DfT regulations** with zero error tolerance. That standard of precision carries directly into how I clean, validate, and present data.
+Today I'm a **Material Controller at dnata Catering UK**, where data drives daily operations:
+
+- Produce **daily stock-on-hand reports from SAP** for operational stakeholders
+- **Reconcile physical stock counts against system records**, including bonded stock, across multiple inventory systems
+- Manage **local purchasing with multiple vendors** and reconcile deliveries against purchase orders
+- Monitor stock rotation (FIFO/FEFO) and expiry, and match supply against daily flight requirements
+- Act as a point of contact for airline customer accounts
+
+Before this, I worked in dnata's aviation security team certifying flight security documentation under **DfT regulations** with zero error tolerance. That standard of precision carries directly into how I clean, validate, and present data.
 
 **What I bring to a data team:**
 
@@ -43,7 +51,7 @@ Today I work at **dnata Catering UK**, certifying flight security documentation 
 
 **Certifications:** CompTIA Data+ &nbsp;|&nbsp; Google Data Analytics &nbsp;|&nbsp; BCS Foundation in Business Analysis &nbsp;|&nbsp; SQL Intermediate (HackerRank)
 
-Currently targeting **Junior Data Analyst and Reporting Analyst** roles in London. If you're hiring, let's talk.
+Currently targeting **Junior Data Analyst, Reporting Analyst, and Supply Chain Analyst** roles in London. If you're hiring, let's talk.
 
 <br/>
 
@@ -80,6 +88,7 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
 
 <br/>
@@ -177,6 +186,7 @@ Currently targeting **Junior Data Analyst and Reporting Analyst** roles in Londo
 
 <br/>
 
+- Supply Chain Analytics: inventory, stock-rotation, and purchasing analysis on a simulated catering-warehouse dataset
 - Machine Learning and Predictive Analytics (logistic regression, random forest)
 - Cloud Data Platforms: Azure and AWS
 - Advanced Excel: financial modelling and dynamic dashboards
